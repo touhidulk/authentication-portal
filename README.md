@@ -1,3 +1,5 @@
+## NOTE: You must use, email: reactjs@gmail.com & password: 12345678 for Successful Login
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
